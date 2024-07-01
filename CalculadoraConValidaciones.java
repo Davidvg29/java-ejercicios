@@ -65,27 +65,3 @@ public class App {
 
     }
 }
-
-
-
-
-
-
-
-
-// import java.util.Scanner;
-// import Suma.suma;
-// import Resta.resta;
-// import Multiplicacion.multiplicacion;
-// import Division.division;
-
-// public class App {
-//     public static void main(String[] args){
-       
-//         new Suma.suma();
-//         new Resta.resta();    
-//         new Multiplicacion.multiplicacion();
-//         new Division.division();
-
-//     }
-// }
